@@ -1,1 +1,1 @@
-Hi! I created this simple Weather App in my IOS development class using the Swift programming language. 
+  A simple weather app I built in my IOS developmment class using the Swift programming language.
